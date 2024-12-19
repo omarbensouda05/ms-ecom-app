@@ -41,3 +41,13 @@ Spring Cloud Gateway pour la gestion des routes.
 Spring Data JPA pour la persistance des données.
 OpenFeign pour la communication entre les micro-services.
 H2 Database pour la base de données en mémoire.
+
+![image](https://github.com/user-attachments/assets/fca01574-99a1-43ce-b494-e43c2a5566c4)
+![image](https://github.com/user-attachments/assets/e060be34-1418-4f5e-a37f-1eb1a5d52720)
+![image](https://github.com/user-attachments/assets/6e21825b-2d4f-479b-9dd4-f8c4b2d689c3)
+![image](https://github.com/user-attachments/assets/af3a5336-2ba4-4c67-987f-8d0efebb8884)
+
+
+
+
+
